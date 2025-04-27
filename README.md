@@ -43,31 +43,25 @@ This project was developed to assist Wisabi's operational and marketing teams in
 
 <h2>Project walk-through:</h2>
 
-ATM Transactions Report Dashboard: <br/>
+ATM Transactions Report Dashboard| Home Page: <br/>
 <img src="https://i.imgur.com/sxofPQV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Uber Trip Time Analysis Dashboard: Revealing Temporal Trends and Booking Patterns: <br/>
-<img src="https://i.imgur.com/GGtmx6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ATM Transactions Report Dashboard| Overview Page: <br/>
+<img src="https://i.imgur.com/xQRnJyx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-HealthStat: Cost Comparison for Elective Hip Replacement Surgeries: <br/>
-<img src="https://i.imgur.com/Jm1wzfa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ATM Transactions Report Dashboard| Demogaphic Page: <br/>
+<img src="https://i.imgur.com/UDMrFB1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-Uber Trip Analysis Bookmark: Understanding Trip and Location Data Structures: <br/>
-<img src="https://i.imgur.com/BHFp8ck.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ATM Transactions Report Dashboard| Demogaphic Page(Different Slicers): <br/>
+<img src="https://i.imgur.com/o9M9iQN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
-Uber Trip Analysis Bookmarks and Filters: Streamlined Data Navigation and Insights: <br/>
-<img src="https://i.imgur.com/SXZvo3j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-
 <!--
  ```diff
 - text in red
