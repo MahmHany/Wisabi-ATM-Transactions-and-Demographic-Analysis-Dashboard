@@ -2,26 +2,6 @@
 The Wisabi ATM Transactions and Demographic Analysis Dashboard is a comprehensive data visualization and analytics platform designed to provide actionable insights into ATM transaction patterns and customer demographics for Wisabi, a financial service provider. The dashboard leverages transactional and demographic data to enable stakeholders to monitor ATM performance, understand customer behavior, and optimize service delivery across various regions. Built with a user-friendly interface, the dashboard integrates multiple data visualizations to present key metrics, trends, and relationships, supporting data-driven decision-making.
 <br />
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Key Features - Wisabi Dashboard</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        body {
-            background-color: #1a2525;
-            color: #e5e7eb;
-        }
-        h2 {
-            color: #5eead4;
-        }
-        li strong {
-            color: #5eead4;
-        }
-    </style>
 </head>
 <body class="p-8">
     <section class="max-w-4xl mx-auto">
